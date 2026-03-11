@@ -1,21 +1,44 @@
-<h1 align="center">Hi 👋, I'm Ahmed Elzayady</h1>
-<h3 align="center">Software Engineer from Egypt</h3>
+# Ahmed Magdy Elzayady
+### Junior Full-Stack Web Developer (.Net|| Angular) | Computer Engineer
 
-- 🌱 I’m currently learning **Embedded Systems**
+Professional Computer Engineer currently undergoing the Intensive Training Program (ITP) at the Information Technology Institute (ITI), specializing in .NET and Angular development. Focused on building scalable web applications and implementing robust back-end logic.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ahmed-Magdy-Elzayady](https://github.com/Ahmed-Magdy-Elzayady)
+---
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-magdy-elzayady/](https://www.linkedin.com/in/ahmed-magdy-elzayady/)
+### Technical Skills
 
-- 📫 How to reach me **ahmed.m.elzayady@gmail.com**
+| Category | Technologies |
+| :--- | :--- |
+| Backend | C#, .NET Core, Web API, Entity Framework |
+| Frontend | Angular, TypeScript, HTML5, CSS3, JavaScript |
+| Database | SQL Server, Database Design |
+| Fundamentals | Data Structures, Algorithms, OOP, SOLID Principles |
+| Tools | Git, GitHub, Visual Studio, VS Code |
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g9JA9NKV8EbZv1wm6x6AqKQapcrKd_t6/view](https://drive.google.com/file/d/1g9JA9NKV8EbZv1wm6x6AqKQapcrKd_t6/view)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-magdy-elzayady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-magdy-elzayady" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed magdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed magdi" height="30" width="40" /></a>
-</p>
+### Education & Training
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+* Intensive Training Program (ITP)
+    * Information Technology Institute (ITI)
+    * Specialization: Full-Stack Development using .NET & Angular
+    * Expected Completion: June 2026
+
+* Bachelor of Computer Engineering
+    * Academic background in Operating Systems, Networking, and Software Testing.
+
+---
+
+### Professional Interests
+
+* Algorithm Implementation: Significant interest in manual implementation and tracing of complex data structures (Stacks, Queues, Linked Lists) and sorting algorithms.
+* System Architecture: Developing clean, maintainable code following industry standards and primitive logic principles to ensure fundamental stability.
+* Freelance Development: Actively seeking opportunities to apply technical skills in real-world projects via platforms like Upwork and Khamsat.
+
+---
+
+### Contact Information
+
+* LinkedIn: [https://www.linkedin.com/in/ahmed-magdi-elzayady/]
+* Email: [ahmed.magdy.elzayady291@gmail.com]
+* GitHub: [Ahmed-Elzayady](https://github.com/Ahmed-Magdy-Elzayady)
