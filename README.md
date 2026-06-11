@@ -48,9 +48,9 @@ Computer Engineer and Backend Developer currently specializing in the **Intensiv
 
 ## ⚙️ GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Magdy-Elzayady&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed's GitHub Stats" />
-</p>
+</p> -->
 
 ---
 
